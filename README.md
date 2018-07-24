@@ -1,1 +1,1 @@
-# emeraldbot
+# EmeraldBot
