@@ -1,0 +1,22 @@
+{
+  "name": "emeraldbot",
+  "version": "0.0.1",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "moment-timezone": "^0.5.23",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.1.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.25.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ElementEmerald",
+  "license": "ISC"
+}
